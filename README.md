@@ -8,6 +8,6 @@
 
 [IA](https://fenix.tecnico.ulisboa.pt/disciplinas/IArt45179/2016-2017/1-semestre)
 
-Projects Grade - 19.77/20
+Project Grade - 19.77/20
 
 P.S. - The project was divided into 3 parts as is explained in the project description, hence the 3 Project Solution.
